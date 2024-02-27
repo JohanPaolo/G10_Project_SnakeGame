@@ -70,6 +70,7 @@ int main() {
     // Clonar el arreglo para usar en la versión paralela
     std::vector<int> arr_parallel = arr;
     int depth = 2;
+    int count_processors = 4;
 
     // Medir el tiempo de ejecución del Quick Sort secuencial
     auto start_time = std::chrono::steady_clock::now();
@@ -88,7 +89,7 @@ int main() {
     std::cout << "Cantidad de hilos creados: " << threads_created << std::endl;
 
     double speedup = static_cast<double>(sequential_time.count()) / parallel_time.count();
-    double efficiency = speedup / static_cast<double>(2);
+    double efficiency = speedup / static_cast<double>(count_processors);
 
     std::cout << std::fixed << std::setprecision(5);
     std::cout << "Speedup: " << speedup << std::endl;
