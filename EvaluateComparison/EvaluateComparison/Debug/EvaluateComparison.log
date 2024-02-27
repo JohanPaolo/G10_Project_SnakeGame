@@ -1,0 +1,3 @@
+﻿  EvaluateComparison.cpp
+C:\Users\Jorge\source\repos\EvaluateComparison\EvaluateComparison\EvaluateComparison.cpp(61,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  EvaluateComparison.vcxproj -> C:\Users\Jorge\source\repos\EvaluateComparison\Debug\EvaluateComparison.exe

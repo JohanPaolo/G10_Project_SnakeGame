@@ -1,0 +1,13 @@
+﻿  G10_Homework_C10_SnakeGame.cpp
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(88,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(88,27): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(91,37): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(91,49): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(266,99): warning C4244: '=': conversión de '_Rep' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(318,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame\G10_Homework_C10_SnakeGame.cpp(421,39): warning C4018: '<': no coinciden signed/unsigned
+  G10_Homework_C10_SnakeGame.vcxproj -> C:\Users\Jorge\source\repos\G10_Proyecto\G10_SnakeGame\G10_Homework_C10_SnakeGame\Debug\G10_Homework_C10_SnakeGame.exe
